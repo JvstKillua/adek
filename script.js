@@ -1,7 +1,7 @@
 /* Javascript */
-alert("Happy Birthday Mbah");
+alert("Happy Birthday Adek");
 var sayHappybday = function(){
-    alert("Happy Birthday Mbah");
+    alert("Happy Birthday Adek");
 }
 
 // date
@@ -97,3 +97,5 @@ function printTime(){
 }
 setInterval(printTime, 100);
 console.log("test");
+
+ 
